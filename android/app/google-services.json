@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "108682137701",
+    "project_id": "smart-talk-5011d",
+    "storage_bucket": "smart-talk-5011d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108682137701:android:7146bc77800c075c4e368c",
+        "android_client_info": {
+          "package_name": "com.good_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108682137701-cceg2mtmgjrkaqagct6r23332k2qn3il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1WknskrAtbrtDzaIFwsGlFN7Ydmd970"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108682137701-cceg2mtmgjrkaqagct6r23332k2qn3il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108682137701:android:0812bc7701cf3ff74e368c",
+        "android_client_info": {
+          "package_name": "com.smart_talk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108682137701-cceg2mtmgjrkaqagct6r23332k2qn3il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1WknskrAtbrtDzaIFwsGlFN7Ydmd970"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108682137701-cceg2mtmgjrkaqagct6r23332k2qn3il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
